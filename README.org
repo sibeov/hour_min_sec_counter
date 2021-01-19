@@ -1,0 +1,27 @@
+#+author: Sindre Bergsvik Øvstegård
+#+title: Hour, minutes and seconds counter.
+
+* Legal:
+Author:             Sindre Bergsvik Øvstegård
+Year:               2021
+FileName:           hms_count.vhd
+Dependencies:       none
+Design Software:    Quartus Prime Version 20.0.0 Build 711 06/05/2020 SJ Lite Edition
+Model Software:     ModelSim PE Student Edition 10.4a - Revision - 2015.03 Date - Apr 7 2015
+
+HDL CODE IS PROVIDED 'AS IS.' Sindre Bergsvik Øvstegård EXPRESSLY DISCLAIMS ANY
+WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL Sindre Bergsvik Øvstegård
+BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL
+DAMAGES, LOST PROFITS OR LOST DATA, HARM TO YOUR EQUIPMENT, COST OF
+PROCUREMENT OF SUBSTITUTE GOODS, TECHNOLOGY OR SERVICES, ANY CLAIMS
+BY THIRD PARTIES (INCLUDING BUT NOT LIMITED TO ANY DEFENSE THEREOF),
+ANY CLAIMS FOR INDEMNITY OR CONTRIBUTION, OR OTHER SIMILAR COSTS.
+
+IF YOU WANT TO USE OR IMPROVE UPON DESIGN, PLEASE FEEL FREE TO DO SO
+BUT PUT CREDIT TO ORIGINAL AUTHOR WHERE CREDIT IS DUE.
+
+* Intention:
+To dive deeper into VHDL and digital electronics. Goal is to implement workings of a digital clock.
+Mostly for fun and academic purposes.
